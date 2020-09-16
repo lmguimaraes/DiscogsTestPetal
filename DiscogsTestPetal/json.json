@@ -1,0 +1,2449 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 34,
+    "per_page": 50,
+    "items": 1678,
+    "urls": {
+      "last": "https://api.discogs.com/users/ausamerika/collection/folders/0/releases?page=34&per_page=50",
+      "next": "https://api.discogs.com/users/ausamerika/collection/folders/0/releases?page=2&per_page=50"
+    }
+  },
+  "releases": [
+    {
+      "id": 5565214,
+      "instance_id": 221498471,
+      "date_added": "2017-03-26T18:58:36-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 5565214,
+        "master_id": 119112,
+        "master_url": "https://api.discogs.com/masters/119112",
+        "resource_url": "https://api.discogs.com/releases/5565214",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Photographs & Memories: His Greatest Hits",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "Cassette",
+            "qty": "1",
+            "descriptions": [ "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "21 Records",
+            "catno": "7 90467-4-Y",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 5795,
+            "resource_url": "https://api.discogs.com/labels/5795"
+          },
+          {
+            "name": "21 Records",
+            "catno": "90467-4-Y",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 5795,
+            "resource_url": "https://api.discogs.com/labels/5795"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Jim Croce",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 291337,
+            "resource_url": "https://api.discogs.com/artists/291337"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Folk Rock" ]
+      }
+    },
+    {
+      "id": 1910042,
+      "instance_id": 174261868,
+      "date_added": "2016-05-30T07:46:32-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1910042,
+        "master_id": 34442,
+        "master_url": "https://api.discogs.com/masters/34442",
+        "resource_url": "https://api.discogs.com/releases/1910042",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Four",
+        "year": 1994,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [ "Album", "Club Edition" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "31454 0265 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Blues Traveler",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 288326,
+            "resource_url": "https://api.discogs.com/artists/288326"
+          }
+        ],
+        "genres": [ "Rock", "Blues" ],
+        "styles": [ "Alternative Rock", "Harmonica Blues", "Pop Rock" ]
+      }
+    },
+    {
+      "id": 7564258,
+      "instance_id": 171219123,
+      "date_added": "2016-05-07T13:35:07-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 7564258,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/7564258",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 2015,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [ "Album", "Reissue" ]
+          },
+          {
+            "name": "DVD",
+            "qty": "1",
+            "descriptions": [ "DVD-Audio", "DVD-Video", "Multichannel", "NTSC", "Album", "Stereo", "Quadraphonic" ]
+          },
+          {
+            "name": "All Media",
+            "qty": "1",
+            "text": "Four-panel Digipak.",
+            "descriptions": [ "Deluxe Edition", "Limited Edition" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "5356238",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Art Rock", "Prog Rock", "Classic Rock" ]
+      }
+    },
+    {
+      "id": 7564258,
+      "instance_id": 171219131,
+      "date_added": "2016-05-07T13:35:08-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 7564258,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/7564258",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 2015,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [ "Album", "Reissue" ]
+          },
+          {
+            "name": "DVD",
+            "qty": "1",
+            "descriptions": [ "DVD-Audio", "DVD-Video", "Multichannel", "NTSC", "Album", "Stereo", "Quadraphonic" ]
+          },
+          {
+            "name": "All Media",
+            "qty": "1",
+            "text": "Four-panel Digipak.",
+            "descriptions": [ "Deluxe Edition", "Limited Edition" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "5356238",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Art Rock", "Prog Rock", "Classic Rock" ]
+      }
+    },
+    {
+      "id": 6586293,
+      "instance_id": 137940751,
+      "date_added": "2015-08-15T19:37:06-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6586293,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/6586293",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 2014,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Reissue" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "5356248",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 8675267,
+      "instance_id": 176842981,
+      "date_added": "2016-06-19T15:46:57-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 8675267,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/8675267",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 2016,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "text": "Deluxe w/DVD",
+            "descriptions": [ "Album", "Deluxe Edition", "Reissue", "Remastered", "Stereo", "Quadraphonic" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "5363456",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 679956,
+      "instance_id": 175039539,
+      "date_added": "2016-06-05T08:02:04-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 679956,
+        "master_id": 153369,
+        "master_url": "https://api.discogs.com/masters/153369",
+        "resource_url": "https://api.discogs.com/releases/679956",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Better Off Dead (Original A&M Soundtrack)",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [ "Album", "Remastered" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "75021 5071 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Electronic", "Rock", "Stage & Screen" ],
+        "styles": [ "Pop Rock", "Synth-pop" ]
+      }
+    },
+    {
+      "id": 3787531,
+      "instance_id": 286884822,
+      "date_added": "2018-03-16T18:40:16-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3787531,
+        "master_id": 37103,
+        "master_url": "https://api.discogs.com/masters/37103",
+        "resource_url": "https://api.discogs.com/releases/3787531",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Tea For The Tillerman",
+        "year": 0,
+        "formats": [
+          {
+            "name": "8-Track Cartridge",
+            "qty": "1",
+            "descriptions": [ "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "8T-4280",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Cat Stevens",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 37606,
+            "resource_url": "https://api.discogs.com/artists/37606"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Folk Rock", "Acoustic", "Pop Rock" ]
+      }
+    },
+    {
+      "id": 1151705,
+      "instance_id": 102217986,
+      "date_added": "2013-10-14T15:36:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1151705,
+        "master_id": 58693,
+        "master_url": "https://api.discogs.com/masters/58693",
+        "resource_url": "https://api.discogs.com/releases/1151705",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Don't You (Forget About Me)",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Breakfast Club sleeve",
+            "descriptions": [ "7\"", "Single" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "AM-2703",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Simple Minds",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 18547,
+            "resource_url": "https://api.discogs.com/artists/18547"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Pop Rock", "Downtempo" ]
+      }
+    },
+    {
+      "id": 7443178,
+      "instance_id": 205965105,
+      "date_added": "2017-01-05T07:09:02-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 7443178,
+        "master_id": 502896,
+        "master_url": "https://api.discogs.com/masters/502896",
+        "resource_url": "https://api.discogs.com/releases/7443178",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Catherine",
+        "year": 1973,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "7\"", "45 RPM", "Single" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "AMS 7061",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Prog Rock" ]
+      }
+    },
+    {
+      "id": 554321,
+      "instance_id": 221498561,
+      "date_added": "2017-03-26T18:59:28-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 554321,
+        "master_id": 13280,
+        "master_url": "https://api.discogs.com/masters/13280",
+        "resource_url": "https://api.discogs.com/releases/554321",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Reckless",
+        "year": 1984,
+        "formats": [
+          {
+            "name": "Cassette",
+            "qty": "1",
+            "descriptions": [ "Album", "Club Edition" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "CS 5013",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Bryan Adams",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10933,
+            "resource_url": "https://api.discogs.com/artists/10933"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Pop Rock" ]
+      }
+    },
+    {
+      "id": 4538772,
+      "instance_id": 270331454,
+      "date_added": "2018-01-02T16:57:15-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4538772,
+        "master_id": 37334,
+        "master_url": "https://api.discogs.com/masters/37334",
+        "resource_url": "https://api.discogs.com/releases/4538772",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Greatest Hits",
+        "year": 1983,
+        "formats": [
+          {
+            "name": "Cassette",
+            "qty": "1",
+            "text": "Chrome 120\u00b5s EQ Dolby BASF",
+            "descriptions": [ "Reissue", "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "CS-4519",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Cat Stevens",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 37606,
+            "resource_url": "https://api.discogs.com/artists/37606"
+          }
+        ],
+        "genres": [ "Rock", "Folk, World, & Country" ],
+        "styles": [ "Pop Rock" ]
+      }
+    },
+    {
+      "id": 10457836,
+      "instance_id": 235920639,
+      "date_added": "2017-06-18T17:28:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 10457836,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/10457836",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Reel-To-Reel",
+            "qty": "1",
+            "descriptions": [ "3 \u00be ips", "4-Track Stereo", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "OR 3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 1058552,
+      "instance_id": 102217968,
+      "date_added": "2013-10-20T15:02:06-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1058552,
+        "master_id": 67524,
+        "master_url": "https://api.discogs.com/masters/67524",
+        "resource_url": "https://api.discogs.com/releases/1058552",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Pieces Of Eight",
+        "year": 1978,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Limited Edition", "Numbered", "Picture Disc" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "PR 4724",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Styx",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 218605,
+            "resource_url": "https://api.discogs.com/artists/218605"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Classic Rock" ]
+      }
+    },
+    {
+      "id": 3138056,
+      "instance_id": 127691799,
+      "date_added": "2015-04-23T17:26:32-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3138056,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/3138056",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album", "Quadraphonic" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "QU 53621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 2458250,
+      "instance_id": 102218250,
+      "date_added": "2013-10-20T16:01:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2458250,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/2458250",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 1973,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album", "Quadraphonic" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "QU-54361",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 2563557,
+      "instance_id": 102218264,
+      "date_added": "2013-10-13T08:45:30-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2563557,
+        "master_id": 115536,
+        "master_url": "https://api.discogs.com/masters/115536",
+        "resource_url": "https://api.discogs.com/releases/2563557",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Good Morning, Vietnam - The Original Motion Picture Soundtrack",
+        "year": 1988,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 3913",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Rock", "Funk / Soul", "Non-Music", "Pop", "Stage & Screen" ],
+        "styles": [ "Surf", "Rock & Roll", "Pop Rock", "Spoken Word", "Soul", "Soundtrack", "Rhythm & Blues" ]
+      }
+    },
+    {
+      "id": 2563557,
+      "instance_id": 193102857,
+      "date_added": "2016-10-16T14:28:24-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2563557,
+        "master_id": 115536,
+        "master_url": "https://api.discogs.com/masters/115536",
+        "resource_url": "https://api.discogs.com/releases/2563557",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Good Morning, Vietnam - The Original Motion Picture Soundtrack",
+        "year": 1988,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 3913",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Rock", "Funk / Soul", "Non-Music", "Pop", "Stage & Screen" ],
+        "styles": [ "Surf", "Rock & Roll", "Pop Rock", "Spoken Word", "Soul", "Soundtrack", "Rhythm & Blues" ]
+      }
+    },
+    {
+      "id": 4845662,
+      "instance_id": 102218531,
+      "date_added": "2013-10-20T14:53:52-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4845662,
+        "master_id": 37103,
+        "master_url": "https://api.discogs.com/masters/37103",
+        "resource_url": "https://api.discogs.com/releases/4845662",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Tea For The Tillerman",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Terre Haute Press",
+            "descriptions": [ "LP", "Album", "Stereo" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 4280",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Cat Stevens",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 37606,
+            "resource_url": "https://api.discogs.com/artists/37606"
+          }
+        ],
+        "genres": [ "Pop", "Folk, World, & Country", "Stage & Screen" ],
+        "styles": [ "Folk Rock", "Pop Rock" ]
+      }
+    },
+    {
+      "id": 2093509,
+      "instance_id": 142980719,
+      "date_added": "2015-10-05T19:22:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2093509,
+        "master_id": 187328,
+        "master_url": "https://api.discogs.com/masters/187328",
+        "resource_url": "https://api.discogs.com/releases/2093509",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Joe Cocker's Greatest Hits",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 4670",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Joe Cocker",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 124497,
+            "resource_url": "https://api.discogs.com/artists/124497"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Rhythm & Blues", "Pop Rock", "Blues Rock" ]
+      }
+    },
+    {
+      "id": 3621899,
+      "instance_id": 102218406,
+      "date_added": "2013-10-13T12:39:35-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3621899,
+        "master_id": 24521,
+        "master_url": "https://api.discogs.com/masters/24521",
+        "resource_url": "https://api.discogs.com/releases/3621899",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Hair Of The Dog",
+        "year": 1982,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Reissue" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3225",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Nazareth (2)",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 253882,
+            "resource_url": "https://api.discogs.com/artists/253882"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Hard Rock" ]
+      }
+    },
+    {
+      "id": 2344660,
+      "instance_id": 166234701,
+      "date_added": "2016-04-03T18:27:39-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2344660,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/2344660",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 401512,
+      "instance_id": 102217839,
+      "date_added": "2013-10-13T08:31:42-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 401512,
+        "master_id": 101332,
+        "master_url": "https://api.discogs.com/masters/101332",
+        "resource_url": "https://api.discogs.com/releases/401512",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Frampton Comes Alive!",
+        "year": 1976,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3703",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Peter Frampton",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 228859,
+            "resource_url": "https://api.discogs.com/artists/228859"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Rock & Roll", "Pop Rock" ]
+      }
+    },
+    {
+      "id": 617486,
+      "instance_id": 102217897,
+      "date_added": "2013-10-20T15:04:04-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 617486,
+        "master_id": 25362,
+        "master_url": "https://api.discogs.com/masters/25362",
+        "resource_url": "https://api.discogs.com/releases/617486",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Breakfast In America",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Terre Haute Pressing",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3708",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Supertramp",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 251517,
+            "resource_url": "https://api.discogs.com/artists/251517"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Art Rock", "Pop Rock" ]
+      }
+    },
+    {
+      "id": 630888,
+      "instance_id": 102217899,
+      "date_added": "2013-10-20T15:01:19-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 630888,
+        "master_id": 115937,
+        "master_url": "https://api.discogs.com/masters/115937",
+        "resource_url": "https://api.discogs.com/releases/630888",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Kilroy Was Here",
+        "year": 1983,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Monarch Pressing, Gatefold",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3734",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Styx",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 218605,
+            "resource_url": "https://api.discogs.com/artists/218605"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Pop Rock", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 1447109,
+      "instance_id": 102218037,
+      "date_added": "2013-10-14T14:40:46-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1447109,
+        "master_id": 131533,
+        "master_url": "https://api.discogs.com/masters/131533",
+        "resource_url": "https://api.discogs.com/releases/1447109",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Whipped Cream & Other Delights",
+        "year": 1965,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Stereo" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4110 (D)",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Herb Alpert & The Tijuana Brass",
+            "anv": "Herb Alpert's Tijuana Brass",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 275002,
+            "resource_url": "https://api.discogs.com/artists/275002"
+          }
+        ],
+        "genres": [ "Jazz", "Latin" ],
+        "styles": [ "Latin Jazz" ]
+      }
+    },
+    {
+      "id": 2155947,
+      "instance_id": 102218198,
+      "date_added": "2013-10-20T15:06:13-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2155947,
+        "master_id": 25388,
+        "master_url": "https://api.discogs.com/masters/25388",
+        "resource_url": "https://api.discogs.com/releases/2155947",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Indelibly Stamped",
+        "year": 0,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album", "Reissue" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4311",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Supertramp",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 251517,
+            "resource_url": "https://api.discogs.com/artists/251517"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Pop Rock" ]
+      }
+    },
+    {
+      "id": 519795,
+      "instance_id": 102217871,
+      "date_added": "2013-10-20T16:23:39-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 519795,
+        "master_id": 57977,
+        "master_url": "https://api.discogs.com/masters/57977",
+        "resource_url": "https://api.discogs.com/releases/519795",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Myths And Legends Of King Arthur And The Knights Of The Round Table",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4515",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Prog Rock" ]
+      }
+    },
+    {
+      "id": 519795,
+      "instance_id": 102217872,
+      "date_added": "2013-10-20T16:24:02-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 519795,
+        "master_id": 57977,
+        "master_url": "https://api.discogs.com/masters/57977",
+        "resource_url": "https://api.discogs.com/releases/519795",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Myths And Legends Of King Arthur And The Knights Of The Round Table",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4515",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Prog Rock" ]
+      }
+    },
+    {
+      "id": 778016,
+      "instance_id": 102217929,
+      "date_added": "2013-10-20T15:54:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 778016,
+        "master_id": 262139,
+        "master_url": "https://api.discogs.com/masters/262139",
+        "resource_url": "https://api.discogs.com/releases/778016",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Lisztomania",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4546",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock", "Stage & Screen" ],
+        "styles": [ "Soundtrack", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 2368014,
+      "instance_id": 102218227,
+      "date_added": "2013-10-20T16:15:14-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2368014,
+        "master_id": 57999,
+        "master_url": "https://api.discogs.com/masters/57999",
+        "resource_url": "https://api.discogs.com/releases/2368014",
+        "thumb": "",
+        "cover_image": "",
+        "title": "No Earthly Connection",
+        "year": 1976,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4583",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "And",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          },
+          {
+            "name": "The English Rock Ensemble",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 606619,
+            "resource_url": "https://api.discogs.com/artists/606619"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 2459359,
+      "instance_id": 102218251,
+      "date_added": "2013-10-20T16:08:23-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2459359,
+        "master_id": 58049,
+        "master_url": "https://api.discogs.com/masters/58049",
+        "resource_url": "https://api.discogs.com/releases/2459359",
+        "thumb": "",
+        "cover_image": "",
+        "title": "White Rock",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4614",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 2459359,
+      "instance_id": 102218252,
+      "date_added": "2013-10-20T16:10:55-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2459359,
+        "master_id": 58049,
+        "master_url": "https://api.discogs.com/masters/58049",
+        "resource_url": "https://api.discogs.com/releases/2459359",
+        "thumb": "",
+        "cover_image": "",
+        "title": "White Rock",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4614",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 2459359,
+      "instance_id": 333457951,
+      "date_added": "2018-11-17T08:29:31-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2459359,
+        "master_id": 58049,
+        "master_url": "https://api.discogs.com/masters/58049",
+        "resource_url": "https://api.discogs.com/releases/2459359",
+        "thumb": "",
+        "cover_image": "",
+        "title": "White Rock",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4614",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 1454716,
+      "instance_id": 102218040,
+      "date_added": "2013-10-20T16:11:59-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1454716,
+        "master_id": 58007,
+        "master_url": "https://api.discogs.com/masters/58007",
+        "resource_url": "https://api.discogs.com/releases/1454716",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Rick Wakeman's Criminal Record",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4660",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 1454716,
+      "instance_id": 142982080,
+      "date_added": "2015-10-05T19:47:11-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1454716,
+        "master_id": 58007,
+        "master_url": "https://api.discogs.com/masters/58007",
+        "resource_url": "https://api.discogs.com/releases/1454716",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Rick Wakeman's Criminal Record",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4660",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 1305436,
+      "instance_id": 474366160,
+      "date_added": "2020-05-26T18:43:40-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1305436,
+        "master_id": 153369,
+        "master_url": "https://api.discogs.com/masters/153369",
+        "resource_url": "https://api.discogs.com/releases/1305436",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Better Off Dead - Original A&M Soundtrack",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "R - RCA Indianapolis",
+            "descriptions": [ "LP", "Compilation" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-5071",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Pop Rock", "Synth-pop" ]
+      }
+    },
+    {
+      "id": 2121035,
+      "instance_id": 102218188,
+      "date_added": "2013-10-20T16:06:51-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2121035,
+        "master_id": 58054,
+        "master_url": "https://api.discogs.com/masters/58054",
+        "resource_url": "https://api.discogs.com/releases/2121035",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Rhapsodies",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-6501",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Art Rock", "Pop Rock", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 2121035,
+      "instance_id": 102218189,
+      "date_added": "2013-10-20T16:06:51-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2121035,
+        "master_id": 58054,
+        "master_url": "https://api.discogs.com/masters/58054",
+        "resource_url": "https://api.discogs.com/releases/2121035",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Rhapsodies",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-6501",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Art Rock", "Pop Rock", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 74247,
+      "instance_id": 102217814,
+      "date_added": "2013-10-19T13:18:09-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 74247,
+        "master_id": 58784,
+        "master_url": "https://api.discogs.com/masters/58784",
+        "resource_url": "https://api.discogs.com/releases/74247",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Live In The City Of Light",
+        "year": 1987,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-6850",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Simple Minds",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 18547,
+            "resource_url": "https://api.discogs.com/artists/18547"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Pop Rock", "Synth-pop", "New Wave" ]
+      }
+    },
+    {
+      "id": 1980502,
+      "instance_id": 102218154,
+      "date_added": "2013-10-20T17:50:41-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1980502,
+        "master_id": 500485,
+        "master_url": "https://api.discogs.com/masters/500485",
+        "resource_url": "https://api.discogs.com/releases/1980502",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Performs The Best Known Works Of Rick Wakeman",
+        "year": 1978,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "AMLH 68447",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "AMLK 68447",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Royal Philharmonic Orchestra",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 153980,
+            "resource_url": "https://api.discogs.com/artists/153980"
+          }
+        ],
+        "genres": [ "Electronic", "Classical" ],
+        "styles": [ "Neo-Classical", "Modern Classical" ]
+      }
+    },
+    {
+      "id": 2431851,
+      "instance_id": 174351890,
+      "date_added": "2016-05-30T19:46:39-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2431851,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/2431851",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 0,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "text": "UML",
+            "descriptions": [ "Album", "Reissue", "Repress" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "CD 3156",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "75021 3156 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock", "Pop" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 715781,
+      "instance_id": 175043194,
+      "date_added": "2016-06-05T08:25:50-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 715781,
+        "master_id": 41729,
+        "master_url": "https://api.discogs.com/masters/41729",
+        "resource_url": "https://api.discogs.com/releases/715781",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Breakfast Club (Original Motion Picture Soundtrack)",
+        "year": 0,
+        "formats": [
+          {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [ "Album", "Reissue" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "CD 3294",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "75021 3294 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Electronic", "Rock", "Stage & Screen" ],
+        "styles": [ "Pop Rock", "Synth-pop" ]
+      }
+    },
+    {
+      "id": 7412931,
+      "instance_id": 273233008,
+      "date_added": "2018-01-15T10:44:28-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 7412931,
+        "master_id": 37157,
+        "master_url": "https://api.discogs.com/masters/37157",
+        "resource_url": "https://api.discogs.com/releases/7412931",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Teaser And The Firecat",
+        "year": 0,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Reissue" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 4313",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP-4313",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Cat Stevens",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 37606,
+            "resource_url": "https://api.discogs.com/artists/37606"
+          }
+        ],
+        "genres": [ "Rock", "Pop" ],
+        "styles": [ "Soft Rock", "Folk Rock" ]
+      }
+    },
+    {
+      "id": 1327321,
+      "instance_id": 102218012,
+      "date_added": "2013-10-20T16:16:46-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1327321,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/1327321",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Prog Rock", "Art Rock", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 1327321,
+      "instance_id": 142982107,
+      "date_added": "2015-10-05T19:47:53-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1327321,
+        "master_id": 57963,
+        "master_url": "https://api.discogs.com/masters/57963",
+        "resource_url": "https://api.discogs.com/releases/1327321",
+        "thumb": "",
+        "cover_image": "",
+        "title": "Journey To The Centre Of The Earth",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 3621",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Prog Rock", "Art Rock", "Symphonic Rock" ]
+      }
+    },
+    {
+      "id": 461547,
+      "instance_id": 102217852,
+      "date_added": "2013-10-20T16:05:00-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 461547,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/461547",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 1973,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Terre Haute pressing",
+            "descriptions": [ "LP", "Album", "Stereo" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4361",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 4361",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 461547,
+      "instance_id": 102217853,
+      "date_added": "2013-10-20T16:05:40-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 461547,
+        "master_id": 57940,
+        "master_url": "https://api.discogs.com/masters/57940",
+        "resource_url": "https://api.discogs.com/releases/461547",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Six Wives Of Henry VIII",
+        "year": 1973,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Terre Haute pressing",
+            "descriptions": [ "LP", "Album", "Stereo" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4361",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 4361",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Rick Wakeman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 149420,
+            "resource_url": "https://api.discogs.com/artists/149420"
+          }
+        ],
+        "genres": [ "Electronic", "Rock" ],
+        "styles": [ "Modern Classical", "Prog Rock" ]
+      }
+    },
+    {
+      "id": 3066735,
+      "instance_id": 260745539,
+      "date_added": "2017-11-12T08:56:11-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3066735,
+        "master_id": 325644,
+        "master_url": "https://api.discogs.com/masters/325644",
+        "resource_url": "https://api.discogs.com/releases/3066735",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Hometown Band",
+        "year": 1977,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album", "Promo" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-4671",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 4671",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Hometown Band",
+            "anv": "The Hometown Band",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 1270287,
+            "resource_url": "https://api.discogs.com/artists/1270287"
+          }
+        ],
+        "genres": [ "Rock" ],
+        "styles": [ "Country Rock" ]
+      }
+    },
+    {
+      "id": 732705,
+      "instance_id": 102217916,
+      "date_added": "2013-10-12T18:44:15-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 732705,
+        "master_id": 41729,
+        "master_url": "https://api.discogs.com/masters/41729",
+        "resource_url": "https://api.discogs.com/releases/732705",
+        "thumb": "",
+        "cover_image": "",
+        "title": "The Breakfast Club (Original Motion Picture Soundtrack)",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [ "LP", "Album" ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP-5045",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          },
+          {
+            "name": "A&M Records",
+            "catno": "SP 5045",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "genres": [ "Electronic", "Rock", "Pop", "Stage & Screen" ],
+        "styles": [ "Pop Rock", "Downtempo", "Synth-pop", "Soundtrack" ]
+      }
+    }
+  ]
+} 
