@@ -5,7 +5,6 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace DiscogsTestPetal.Controllers
 {
@@ -27,17 +26,17 @@ namespace DiscogsTestPetal.Controllers
         /// </summary>
         [HttpGet]
         [Route("GetCollection/{qty}")]
-        public string GetCollectionAsync(int qty)
+        public string GetCollection(int qty)
         {
             var result = new Collection();
-            _logger.LogDebug("'{0}' has been invoked", nameof(GetCollectionAsync));
+            _logger.LogDebug("'{0}' has been invoked", nameof(GetCollection));
             try
             {
-                return  JsonConvert.SerializeObject((RandomizeDiscs( _discCollectionData.GetCollectionInfo(qty).Result.Releases, qty)));
+                return JsonConvert.SerializeObject((RandomizeDiscs(_discCollectionData.GetCollectionInfoAsync(qty).Result.Releases, qty)));
             }
             catch (Exception ex)
             {
-                _logger.LogCritical("There was an error on '{0}' invocation: {1}", nameof(GetCollectionAsync), ex);
+                _logger.LogCritical("There was an error on '{0}' invocation: {1}", nameof(GetCollection), ex);
                 return ex.Message;
             }
         }
@@ -46,7 +45,7 @@ namespace DiscogsTestPetal.Controllers
         {
             Random rnd = new Random();
             var randomizedDiscs = new List<Releases>();
-            var uniqueNumbers = GenerateRandomNumbers(quantity);
+            var uniqueNumbers = GenerateRandomNumbers(quantity, allDiscs);
             foreach (var item in uniqueNumbers)
             {
                 randomizedDiscs.Add(allDiscs[item]);
@@ -54,14 +53,15 @@ namespace DiscogsTestPetal.Controllers
             return randomizedDiscs;
         }
 
-        public HashSet<int> GenerateRandomNumbers(int quantity)
+        public HashSet<int> GenerateRandomNumbers(int quantity, List<Releases> discsList)
         {
             HashSet<int> rndIndexes = new HashSet<int>();
             Random rng = new Random();
-            Console.Write("Please input Max number: ");
+            if (quantity > discsList.Count)
+                throw new ArgumentOutOfRangeException();
             while (rndIndexes.Count != quantity)
             {
-                int index = rng.Next(50);
+                int index = rng.Next(discsList.Count);
                 rndIndexes.Add(index);
             }
             return rndIndexes;

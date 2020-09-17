@@ -23,7 +23,7 @@ namespace DiscogsTestPetal.Controllers
         }
 
         [HttpPost]
-        public ActionResult SubmitSearch(SearchParameters param)
+        public ActionResult SubmitSearch(SearchParametersViewModel param)
         {
             return Redirect("/Collection/GetCollection/" + param.Quantity.ToString());
         }

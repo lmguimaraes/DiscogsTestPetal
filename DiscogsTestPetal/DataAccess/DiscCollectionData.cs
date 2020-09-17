@@ -19,16 +19,14 @@ namespace DiscogsTestPetal.DataAccess
             apiBaseUrl = _configuration.GetValue<string>("WebAPIBaseUrl");
         }
 
-        public async Task<Collection> GetCollectionInfo(int quantity)
+        public async Task<Collection> GetCollectionInfoAsync(int quantity)
         {
             using (var httpClient = new HttpClient())
             {
-                var stringJson = httpClient.GetStringAsync(apiBaseUrl);
-                var apiResponse = await stringJson;
-                return JsonConvert.DeserializeObject<Collection>(apiResponse.ToString());
+                httpClient.DefaultRequestHeaders.Add("User-Agent", "X");
+                var stringJson = await httpClient.GetStringAsync(apiBaseUrl);
+                return JsonConvert.DeserializeObject<Collection>(stringJson.ToString());
             }
-            //var myJsonString = File.ReadAllText(@"json.json");
-            //return JsonConvert.DeserializeObject<Collection>(myJsonString);
         }
     }
 }

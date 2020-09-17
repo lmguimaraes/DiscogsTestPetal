@@ -5,6 +5,6 @@ namespace DiscogsTestPetal.DataAccess
 {
     public interface IDiscCollectionData
     {
-        Task<Collection> GetCollectionInfo (int quantity);
+        Task<Collection> GetCollectionInfoAsync(int quantity);
     }
 }

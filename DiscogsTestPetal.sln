@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscogsTestPetal", "DiscogsTestPetal\DiscogsTestPetal.csproj", "{F9D39B1C-E971-49B6-9808-D40453F5EFA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscogsTestPetalTESTUN", "DiscogsTestPetalTESTUN\DiscogsTestPetalTESTUN.csproj", "{F7FCE8EA-424D-4B41-9792-D33F301B0DE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscogsTestPetal.TEST", "DiscogsTestPetalTESTUN\DiscogsTestPetal.TEST.csproj", "{F7FCE8EA-424D-4B41-9792-D33F301B0DE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
